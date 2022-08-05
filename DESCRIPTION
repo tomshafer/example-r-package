@@ -1,0 +1,10 @@
+Package: testpkg
+Title: Example package for reprex
+Version: 1.0.0
+Authors@R: 
+    person("Tom", "Shafer", , "tom.shafer@elderresearch.com", c("aut", "cre"))
+Description: Example package for a renv reprex
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.0
